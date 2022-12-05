@@ -1,6 +1,6 @@
 {
   "name": "@dnrg82/react-refresh-timer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "add a small auto-refresh timer to your react site!",
   "main": "index.js",
   "scripts": {
