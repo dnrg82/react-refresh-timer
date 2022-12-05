@@ -1,2 +1,2 @@
-export {default as RefreshTimer} from './src/RefreshTimer';
-export * from './src/RefreshTimer';
+import RefreshTimer from "./src/RefreshTimer";
+module.exports = RefreshTimer;
